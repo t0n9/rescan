@@ -24,3 +24,5 @@ python rescan.py -i  192.168.1.1/24 -p 6379
  10.14.40.194
 ```
 
+http://zone.wooyun.org/content/23889
+
